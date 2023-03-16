@@ -1,2 +1,2 @@
 # shittyshaders
-My shitty shaders for HLSL practices
+My shitty shaders for practices
